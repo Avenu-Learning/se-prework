@@ -139,6 +139,9 @@ Now that you have set up a development environment and a working knowledge of ho
 
 To help you do that, go through the [Intro to HTML](https://codigo.thinkific.com/courses/intro-to-html) and [Styling with CSS](https://codigo.thinkific.com/courses/styling-with-css) short courses on the Codigo website. You can sign into these two courses for free - the first course is free and you only have to enter the coupon code to get access to Styling with CSS for free. You should have received the coupon code in the email you received introducing this prework. These 2 short courses include videos on each topic along with practice sessions to help you learn HTML & CSS.
 
+#### Bonus Level (Optional)
+
+If you are still looking for some more practice, then check-out [CSS Diner](https://flukeout.github.io/), a fun little game that'll have you eating up CSS.
 #### Side Quest (Optional)
 
 Check out the [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) and [CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) resources from Mozilla Developer Network as a reference if you want to look something up.
