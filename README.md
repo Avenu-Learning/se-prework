@@ -1,4 +1,3 @@
-[<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
 # Software Engineering Prework
 
 Welcome to your new journey on the road towards becoming a software engineer! Before you can set out on this new adventure, let me help you prepare with the right tools and skills you will need on your journey.
